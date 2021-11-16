@@ -6,7 +6,7 @@
   "dependencies": {
     "@bugsnag/node": "^7.2.0",
     "@types/uuid": "^8.0.0",
-    "aws-sdk": "2.713.0",
+    "aws-sdk": "2.814.0",
     "luxon": "^1.24.1",
     "uuid": "^8.2.0"
   },
